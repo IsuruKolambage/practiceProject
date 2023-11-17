@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import Header from './components/landing-page-components/header';
 import Features from './components/landing-page-components/features';
 import About from './components/landing-page-components/about';
